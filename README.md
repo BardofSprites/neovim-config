@@ -1,6 +1,5 @@
 # ✨ My Neovim Config ✨
 
-<<<<<<< HEAD
 ### [**Plugins**](##Plugins) | [**Installation**](##Installation) | [**Configuration**](##Configuration)
 > ***Note: This works on Unix-based systems (Linux and MacOS for sure).***
 =======
