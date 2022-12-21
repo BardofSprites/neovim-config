@@ -70,7 +70,7 @@ Github Copilot and LSP
 
     ```shell
     cd ~/.config/nvim
-    git clone https://github.com/BardofSprites/nvim-config.git
+    git clone https://github.com/BardofSprites/nvim-config.git .
     ```
 
 ### Uninstall:
