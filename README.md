@@ -2,16 +2,6 @@
 
 ### [**Plugins**](##Plugins) | [**Installation**](##Installation) | [**Configuration**](##Configuration)
 > ***Note: This works on Unix-based systems (Linux and MacOS for sure).***
-=======
-## Prerequisites:
- - Install `ripgrep`
- - Packer.nvim: 
-  ```shell
-  git clone --depth 1 https://github.com/wbthomason/packer.nvim\
-   ~/.local/share/nvim/site/pack/packer/start/packer.nvim
-  ```
- - For markdown preview:
->>>>>>> 68f2ccd82faab8bd0232b7224ecd50d5a9996f9c
 
 ## Gallery: 
 Normal Document
