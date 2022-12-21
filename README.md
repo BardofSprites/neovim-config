@@ -68,6 +68,9 @@ Github Copilot and LSP
 - Run this command to install my configuration 
     > I would recommend doing this on a fresh install so there are no conflicts
 
+    **Ignore all of the errors.**
+    Open the file: `~/.config/nvim/lua/bard/packer.lua` with nvim. Then open the vim console with : and run the command `so`. This command evaluates the code in the file, be sure to use it when you update the configuration. 
+    Finally, open the vim console again with : and run `:PackerSync`
     ```shell
     cd ~/.config/nvim
     git clone https://github.com/BardofSprites/neovim-config.git .
