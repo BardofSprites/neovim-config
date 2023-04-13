@@ -86,7 +86,7 @@ return require('packer').startup(function(use)
     -- Discord Rich Presence plugin
     use 'andweeb/presence.nvim'
     -- Theme
-    use "rebelot/kanagawa.nvim"
+    use "ellisonleao/gruvbox.nvim"
     -- Status line
     use {
         'nvim-lualine/lualine.nvim',

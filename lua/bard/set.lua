@@ -1,6 +1,5 @@
 -- Theme
 require("bard.colors")
-vim.cmd('colorscheme kanagawa')
 
 -- NetRW settings
 vim.g.netrw_browse_split = 0
